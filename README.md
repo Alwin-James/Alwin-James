@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Who Am I?
 I'm a passionate Senior Software Engineer with a rich background in Microsoft technologies. 
-My journey in tech has taken me through the realms of ASP.NET, .NET Core 3.1 & .NET 6, Web API, GraphQL, Entity Framework 6, LINQ, SQL, and Azure.
+My journey in tech has taken me through the realms of ASP.NET, .NET Core 3.1 , .NET 6 & .NET 8, Web API, GraphQL, Entity Framework 6, LINQ, SQL, Azure , PowerBI and Data Analytics.
 I'm also skilled in front-end technologies such as Angular, AngularJS, HTML, CSS, JavaScript, and jQuery, and I'm well-versed in server and deployment tools like IIS, GIT, Azure DevOps, and TFS.
 
 Currently, I'm diving deep into the exciting world of Artificial Intelligence, focusing on leveraging AI to solve complex problems and enhance our interaction with technology. 
